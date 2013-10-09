@@ -1,0 +1,4 @@
+Multigrado
+Sintetico
+Semi-Sintetico
+Otro
